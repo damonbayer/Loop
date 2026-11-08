@@ -13,3 +13,11 @@ The toggle starts off for new entries and is enabled only when the entry timesta
 ![Future entry with the reminder enabled](04-future-reminder-on.png)
 
 Interactive checks confirmed the toggle becomes available when advancing the entry time and returns to its disabled state when moving it back.
+
+## Time to Eat notification
+
+Loop delivered these reminders for 45 g demo meals saved without a bolus.
+
+| Lock screen | Home screen banner |
+| --- | --- |
+| ![Time Sensitive Time to Eat reminder on the iOS lock screen](05-time-to-eat-lock-screen.png) | ![Time to Eat reminder banner on the iOS Home Screen](06-time-to-eat-banner.png) |
